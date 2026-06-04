@@ -33,14 +33,14 @@ A simple backend application built using **Spring Boot** and **MongoDB** that pr
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/journal-app-backend.git
-cd journal-app-backend
+git clone https://github.com/RakeshSarkar1223/journalApp.git
+cd journalApp
 ```
 
 2. Configure MongoDB in `application.properties`:
 
 ```properties
-spring.data.mongodb.uri=mongodb://localhost:27017/journaldb
+spring.data.mongodb.uri=mongodb://localhost:27017/journalapp
 ```
 
 3. Run MongoDB.
